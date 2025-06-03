@@ -34,7 +34,7 @@ This project uses Natural Language Processing (NLP) and Machine Learning to:
 2. Change directory to the project folder:  
    ```bash
    cd Sentiment-Based-Mental-Health-Chatbot
-3. Install dependencies
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
 ---
